@@ -1,0 +1,75 @@
+[
+    {
+      "productId":1,
+      "productName":"spidaar man",
+      "productType":"soft toy",
+      "productPrice":2000,
+      "productImageUrl":"https://th.bing.com/th/id/OIP.PrwXZXyNYmLNhtNPQXxbJwHaHa?pid=ImgDet&rs=1",
+      "productMDate":"2019,5,6",
+      "productRating":2.5
+    },
+    {
+      "productId":2,
+      "productName":"CAR ",
+      "productType":"elctronic",
+      "productPrice":2000,
+      "productMDate":"2022,6,15",
+      "productImageUrl":"https://4.imimg.com/data4/BB/QU/MY-23659049/kids-toys-bikes-cars-automobile-500x500.jpg ",
+      "productRating":3.8
+    },
+    {
+      "productId":3,
+      "productName":"dog",
+      "productType":"Toy",
+      "productPrice":2500,
+      "productMDate":"2022,3,25",
+      "productImageUrl":"https://assets.ajio.com/medias/sys_master/root/h7d/hb9/16908812091422/-1117Wx1400H-4915691740-multi-MODEL.jpg",
+      "productRating":4.8
+    },
+    {
+      "productId":4,
+      "productName":"baby",
+      "productPrice":1800,
+      "productImageUrl":"https://m.media-amazon.com/images/I/612J1gHSXYL._SY550_.jpg ",
+      "productType":"toy",
+      "productMDate":"2019,9,12",
+      "productRating":4
+    },
+    {
+      "productId":5,
+      "productName":"train",
+      "productPrice":2500,
+      "productImageUrl":"https://image.shutterstock.com/image-vector/cartoon-toy-train-vector-illustration-260nw-245724529.jpg",
+      "productType":"elctronic",
+      "productMDate":"2022,8,28",
+      "productRating":3.4
+    },
+    {
+      "productId":6,
+      "productName":"baby Girl",
+      "productPrice":4500,
+      "productImageUrl":"https://m.media-amazon.com/images/I/61R-mfmFmXL.jpg",
+      "productType":"soft toy",
+      "productMDate":"2018,12,12",
+      "productRating":5
+    },
+    {
+      "productId":7,
+      "productName":"horse",
+      "productPrice":4500,
+      "productImageUrl":"https://th.bing.com/th/id/OIP.bUmUIGFbxAkAfVGyWsC3uAHaGh?pid=ImgDet&rs=1",
+      "productType":"soft toy",
+      "productMDate":"2018,7,7",
+      "productRating":3.8
+    },
+    {
+    "productId":8,
+    "productName":"robot",
+    "productPrice":4500,
+    "productImageUrl":"https://th.bing.com/th/id/OIP.ZzBe1mLPKScKpa_RD5TUNQHaKa?pid=ImgDet&rs=1",
+    "productType":"electronic",
+    "productMDate":"2018,6,6",
+    "productRating":5
+  }
+]
+ 
